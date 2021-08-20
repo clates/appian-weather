@@ -28,7 +28,7 @@
 .weather-forecast.cloudy,
 .weather-forecast.partly-cloudy,
 .weather-forecast.sunny {
-  background-image: url("/weathericons.png");
+  background-image: url("/appian-weather/weathericons.png");
   background-size: 200px;
 }
 

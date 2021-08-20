@@ -9,7 +9,7 @@ class App extends Component {
     super();
 
     //Go grab the data from test-data.json
-    fetch("/test-data.json", {
+    fetch("test-data.json", {
       headers: {
         "Content-Type": "application/json",
         Accept: "application/json",
