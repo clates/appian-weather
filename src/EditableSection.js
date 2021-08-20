@@ -9,17 +9,17 @@ class EditableSection extends Component {
       <div className="editable-section">
         <DatePicker
           title="Start Date"
-          onChange={date => this.props.onStartDateChange(date)}
+          onChange={(date) => this.props.onStartDateChange(date)}
           value={this.props.startDate}
         />
         <DatePicker
           title="End Date"
-          onChange={date => this.props.onEndDateChange(date)}
+          onChange={(date) => this.props.onEndDateChange(date)}
           value={this.props.endDate}
         />
         <TextField
           title="Location"
-          onChange={e => this.props.onLocationChange(e.target.value)}
+          onChange={(e) => this.props.onLocationChange(e.target.value)}
           value={this.props.location}
         />
       </div>
