@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/appian-weather/static/css/main.313cc87d.chunk.css",
+    "main.js": "/appian-weather/static/js/main.a7fde5bd.chunk.js",
+    "main.js.map": "/appian-weather/static/js/main.a7fde5bd.chunk.js.map",
+    "runtime-main.js": "/appian-weather/static/js/runtime-main.f299ed9b.js",
+    "runtime-main.js.map": "/appian-weather/static/js/runtime-main.f299ed9b.js.map",
+    "static/css/2.c595a105.chunk.css": "/appian-weather/static/css/2.c595a105.chunk.css",
+    "static/js/2.c5fac360.chunk.js": "/appian-weather/static/js/2.c5fac360.chunk.js",
+    "static/js/2.c5fac360.chunk.js.map": "/appian-weather/static/js/2.c5fac360.chunk.js.map",
+    "index.html": "/appian-weather/index.html",
+    "precache-manifest.fc504ca5387868be38b6292b18a67914.js": "/appian-weather/precache-manifest.fc504ca5387868be38b6292b18a67914.js",
+    "service-worker.js": "/appian-weather/service-worker.js",
+    "static/css/2.c595a105.chunk.css.map": "/appian-weather/static/css/2.c595a105.chunk.css.map",
+    "static/css/main.313cc87d.chunk.css.map": "/appian-weather/static/css/main.313cc87d.chunk.css.map",
+    "static/js/2.c5fac360.chunk.js.LICENSE.txt": "/appian-weather/static/js/2.c5fac360.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f299ed9b.js",
+    "static/css/2.c595a105.chunk.css",
+    "static/js/2.c5fac360.chunk.js",
+    "static/css/main.313cc87d.chunk.css",
+    "static/js/main.a7fde5bd.chunk.js"
+  ]
+}
