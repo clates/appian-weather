@@ -1,4 +1,5 @@
 .editable-section {
+  margin: 20px;
   display: flex;
   border-radius: 15px;
   background-color: skyblue;

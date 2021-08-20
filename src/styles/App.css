@@ -1,7 +1,9 @@
 .App {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: lightblue;
-  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
 
 .App-logo {
@@ -26,4 +28,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.results-section {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 15px;
+  background-color: skyblue;
+  /* flex-grow: 1;  */
+  justify-content: space-evenly;
+  overflow-y: auto;
 }
